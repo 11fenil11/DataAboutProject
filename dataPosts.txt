@@ -1,4 +1,7 @@
-[
+{
+    "message": "Users retrieved",
+    "status": true,
+    "data": [
   {
     photo: 'https://i.ebayimg.com/images/g/g2UAAOSwAPFggbB2/s-l500.jpg',
     itemName: 'Vacuum Cleaner',
@@ -80,4 +83,4 @@
     zipCode: 'P0N 1A0',
   },
 ]
-
+}
