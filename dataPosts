@@ -1,0 +1,126 @@
+{
+    "message": "Users retrieved",
+    "status": true,
+    "data": [
+        {
+            "id": "0F8JIqi4zwvb77FGz6Wt",
+            "lastName": "Shah",
+            "firstName": "Dhruvil",
+            "email": "DhruvilShah@gmail.com",
+            "title": "Vacuum Cleaner",          
+            "picture": "https://i.ebayimg.com/images/g/g2UAAOSwAPFggbB2/s-l500.jpg"
+        },
+        {
+            "id": "0P6E1d4nr0L1ntW8cjGU",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "1Lkk06cOUCkiAsUXFLMN",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "1OuR3CWOEsfISTpFxsG7",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "1pRsh5nXDIH3pjEOZ17A",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "3JAf8R85oIlxXd58Piqk",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "5aZRSdkcBOM6j3lkWEoP",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "5tVxgsqPCjv2Ul5Rc7gw",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "6wy6UNkZueJfIUfq88d5",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "7DbXNPWlNDR4QYVvFZjr",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "8RQd4OVqvmV0I4UlWETQ",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "8UfTdB7ctWt3Fl87d88Q",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "8YL1aG0vwRBXTzeZ0jRC",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "9N03J6vQj6MFq2UpUanW",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        },
+        {
+            "id": "CNYttp1Jrgg3I2zfSeS4",
+            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
+            "lastName": "Parmar",
+            "email": "Fenil@gmail.com",
+            "title": "TV monitor",
+            "firstName": "Fenil"
+        }
+    ]
+}
