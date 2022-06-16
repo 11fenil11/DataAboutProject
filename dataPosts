@@ -3,60 +3,81 @@
     "status": true,
     "data": [
         {
-            "id": "0F8JIqi4zwvb77FGz6Wt",
-            "lastName": "Shah",
+            "id": "0F8JIqi4zwvb77FGz6Wt",            
+            "itemName": "Vacuum Cleaner",
             "firstName": "Dhruvil",
-            "email": "DhruvilShah@gmail.com",
-            "title": "Vacuum Cleaner",          
+            "lastName": "Shah",
+            "street": "3852 Eglinton Avenue",
+            "city": "Toronto",
+            "state": "Ontario",
+            "zipCode": "M4P 1A6"            
             "picture": "https://i.ebayimg.com/images/g/g2UAAOSwAPFggbB2/s-l500.jpg"
         },
         {
             "id": "0P6E1d4nr0L1ntW8cjGU",
             "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "itemName": "TV Monitor",
+            "firstName": "Fenil",
+            "lastName": "Patel",
+            "street": "1395 Victoria Park Ave",
+            "city": "Toronto",
+            "state": "Ontario",
+            "zipCode": "M2J 3T7"
         },
         {
             "id": "1Lkk06cOUCkiAsUXFLMN",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://www.ikea.com/ca/en/images/products/sagstua-bed-frame-black-luroey__0861898_pe713121_s5.jpg",
+            "itemName": "Bed frame",
+            "firstName": "Aman",
+            "lastName": "Patel",
+            "street": "2534 90th Avenue",
+            "city": "Drumheller",
+            "state": "Ontario",
+            "zipCode": "T0J 0Y0"
         },
         {
             "id": "1OuR3CWOEsfISTpFxsG7",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://www.ikea.com/ca/en/images/products/sagstua-bed-frame-black-luroey__0861898_pe713121_s5.jpg",
+            "itemName": "Bicycle",
+            "firstName": "Harshil",
+            "lastName": "Shah",
+            "street": "4641 Bridgeport Rd",
+            "city": "Hamilton",
+            "state": "Ontario",
+            "zipCode": "L9A 4V3"
         },
         {
             "id": "1pRsh5nXDIH3pjEOZ17A",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://i5.walmartimages.ca/images/Enlarge/283/923/6000202283923.jpg",
+            "itemName": "Playstation 5",
+            "firstName": "Umang",
+            "lastName": "Patel",
+            "street": "2903 Lynden Road",
+            "city": "Grand Valley",
+            "state": "Ontario",
+            "zipCode": "L0N 1G0"
         },
         {
             "id": "3JAf8R85oIlxXd58Piqk",
             "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "itemName": "Vacuum Cleaner",
+            "firstName": "Faizal",
+            "lastName": "Mualvi",
+            "street": "1834 Alaska Hwy",
+            "city": "Tumbler Ridge",
+            "state": "British Columbia",
+            "zipCode": "V0C 2W0"
         },
         {
             "id": "5aZRSdkcBOM6j3lkWEoP",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://www.tasteofhome.com/wp-content/uploads/2020/07/air-fryer.jpg",
+            "itemName": "Air Fryer",
+            "firstName": "Harsh",
+            "lastName": "Reddiar",
+            "street": "3687 rue des Églises Est",
+            "city": "Evain",
+            "state": "Quebec",
+            "zipCode": "J0Z 1Y0"
         },
         {
             "id": "5tVxgsqPCjv2Ul5Rc7gw",
@@ -68,59 +89,36 @@
         },
         {
             "id": "6wy6UNkZueJfIUfq88d5",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://m.media-amazon.com/images/I/818cl0XCJmL._AC_SL1500_.jpg",
+            "itemName": "Skateboard",
+            "firstName": "Nisrag",
+            "lastName": "Chokshi",
+            "street": "4603 Nelson "street"",
+            "city": "Connaught",
+            "state": "Ontario",
+            "zipCode": "P0N 1A0"
         },
         {
             "id": "7DbXNPWlNDR4QYVvFZjr",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://m.media-amazon.com/images/I/818cl0XCJmL._AC_SL1500_.jpg",
+            "itemName": "Skateboard",
+            "firstName": "Nisrag",
+            "lastName": "Chokshi",
+            "street": "4603 Nelson "street"",
+            "city": "Connaught",
+            "state": "Ontario",
+            "zipCode": "P0N 1A0"
         },
         {
             "id": "8RQd4OVqvmV0I4UlWETQ",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
-        },
-        {
-            "id": "8UfTdB7ctWt3Fl87d88Q",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
-        },
-        {
-            "id": "8YL1aG0vwRBXTzeZ0jRC",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
-        },
-        {
-            "id": "9N03J6vQj6MFq2UpUanW",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
-        },
-        {
-            "id": "CNYttp1Jrgg3I2zfSeS4",
-            "picture": "https://www.lg.com/ca_en/images/desktop-monitors/md07540103/gallery/D_01.jpg",
-            "lastName": "Parmar",
-            "email": "Fenil@gmail.com",
-            "title": "TV monitor",
-            "firstName": "Fenil"
+            "picture": "https://m.media-amazon.com/images/I/818cl0XCJmL._AC_SL1500_.jpg",
+            "itemName": "Skateboard",
+            "firstName": "Nisrag",
+            "lastName": "Chokshi",
+            "street": "4603 Nelson "street"",
+            "city": "Connaught",
+            "state": "Ontario",
+            "zipCode": "P0N 1A0"
         }
     ]
 }
