@@ -1,0 +1,31 @@
+Slide 1: Idea Pitch
+
+Title: Virtual Reality and In-Person Scavenger Hunt Game
+
+Introduction:
+We propose a new game that combines the excitement of scavenger hunts with the immersive experience of virtual reality (VR). Our game is designed to be played by teams of two, where one player will be in a virtual world and the other in the physical world.
+
+Gameplay:
+The virtual player will receive clues to find the flavor of coffee they need to make. Once they find the clue, they will pass it on to their teammate in the physical world, who will then complete the task of making the flavored coffee. The first team to complete the task wins.
+
+Benefits:
+Our game offers an exciting and unique way to engage teams, promoting teamwork, communication, and problem-solving skills. It's a great way to bring together remote and in-person team members, creating a fun and interactive experience for all.
+
+Slide 2: Feasibility of the Idea
+
+Title: Feasibility of Virtual Reality and In-Person Scavenger Hunt Game
+
+Introduction:
+Our game combines the latest in virtual reality technology with real-world scavenger hunt gameplay. In this slide, we will discuss the feasibility of our idea and the technical requirements to make it a reality.
+
+Virtual Reality:
+Our game requires a VR headset and controllers for the virtual player. VR technology has become more accessible in recent years, and many companies offer affordable VR headsets.
+
+Scavenger Hunt Gameplay:
+The scavenger hunt aspect of the game is a tried-and-true concept that has been used in various settings, making it easy to implement in our game.
+
+Technical Requirements:
+To make the game work seamlessly, we will need a robust network and server infrastructure to ensure smooth communication between the virtual and in-person players. We will also need a well-designed app to guide the virtual player through the game and keep track of progress.
+
+Conclusion:
+Overall, we believe that our idea is both feasible and exciting. With the right technical infrastructure in place, our game has the potential to engage and entertain teams of all sizes, in both remote and in-person settings.
